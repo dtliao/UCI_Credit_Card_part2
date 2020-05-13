@@ -1,0 +1,8 @@
+,Accuracy score,ROC - AUC,Optimal Parameter
+KNN Classification,0.806933,0.736769,n_neighbors: 21
+Decision Tree Classification,0.822133,0.736769,"criterion: ""gini"", max_depth: 4"
+Logistic Regression,0.814933,0.745237,C: 20
+Linear Support Vector Machine,0.8164,0.746136,"C: 1, loss: ""hinge"""
+Kerenilzed Support Vector Machine(rbf),0.812666,0.685229,"C: 100, gamma: 1"
+Kerenilzed Support Vector Machine(poly),0.8116,0.698301,"C: 10, gamma: 1"
+Kerenilzed Support Vector Machine(linear),0.8188,0.747408,"C: 10, gamma: 0.001"
